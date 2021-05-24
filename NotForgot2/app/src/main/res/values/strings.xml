@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NotForgot</string>
+    <string name="enter">Войти</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="register">Нет аккаунта? <font color='blue'>Зарегистрироваться</font></string>
+    <string name="create">Создать</string>
+    <string name="name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="already_have_acc">Есть аккаунт? <font color='#1554F6'><u>Войти</u></font></string>
+    <string name="app">Not Forgot</string>
+    <string name="relaxation">
+        Пока что у вас нет никаких дел. \n
+        Хорошего отдыха!</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="heading">Заголовок</string>
+    <string name="description">Описание</string>
+    <string name="deadline">Срок выполнения задачи</string>
+    <string name="category">Категория задачи</string>
+    <string name="priority">Приоритет</string>
+    <string name="save">Сохранить</string>
+    <string name="saving">Сохранение...</string>
+</resources>
